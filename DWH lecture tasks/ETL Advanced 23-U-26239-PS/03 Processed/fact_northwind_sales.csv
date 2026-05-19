@@ -1,0 +1,58 @@
+﻿Customer Segment,Sum of Discount,Discount Adjusted Sales,Count of Employee ID,Year,Quarter,Month,Day,Notes,Sum of Order Date - Month,Sum of Order Date - Quarter,Sum of Order Date - Year,Count of Order DetailsNew.ID,Count of Order DetailsNew.Order ID,Count of Order ID,Year,Quarter,Month,Day,Payment Type,Count of Product ID,Product Rank,Profit Proxy,Sum of Quantity,Regional Performance Index,Ship Address,Ship City,Ship Country/Region,Ship Name,Ship State/Province,Ship ZIP/Postal Code,Year,Quarter,Month,Day,Count of Shipper ID,Sum of Shipping Fee,Count of Status ID,Sum of Tax Rate,Sum of Tax Status,Sum of Taxes,Total Sales,Sum of Unit Price,Count of Customer ID
+High,0,13800,1,2006,Qtr 1,March,10,,3,1,2006,1,1,1,2006,Qtr 1,March,10,Check,1,4968.2,2760,300,4968.2,789 28th Street,Memphis,USA,Amritansh Raghav,TN,99999,2006,Qtr 1,March,11,1,USh10,1,0,,USh0,13800,USh46,1
+High,0,13800,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,4968.2,2760,300,4968.2,123 7th Street,Boise,USA,Ming-Yang Xie,ID,99999,,,,,,USh0,1,0,,USh0,13800,USh46,1
+Low,0,0,2,2006,Qtr 2,April,25,,8,4,4012,2,2,2,,,,,,2,0.2,0,0,0.2,123 3rd Street,Los Angelas,USA,Thomas Axen,CA,99999,,,,,,USh0,2,0,,USh0,0,USh40.99,2
+Low,0,1000,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Check,1,360.2,200,25,360.2,123 8th Street,Portland,USA,Elizabeth Andersen,OR,99999,2006,Qtr 2,April,5,1,USh50,1,0,,USh0,1000,USh40,1
+Low,0,105,1,2006,Qtr 1,January,15,,1,1,2006,1,1,1,2006,Qtr 1,January,15,Check,1,38,21,30,38,789 27th Street,Las Vegas,USA,Karen Toh,NV,99999,2006,Qtr 1,January,22,1,USh200,1,0,,USh0,105,USh3.5,1
+Low,0,1150,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,414.2,230,25,414.2,123 1st Street,Seattle,USA,Anna Bedecs,WA,99999,,,,,,USh0,1,0,,USh0,1150,USh46,1
+Low,0,120,1,2006,Qtr 2,April,25,,4,2,2006,1,1,1,2006,Qtr 2,April,25,Cash,1,43.4,24,3,43.4,123 3rd Street,Los Angelas,USA,Thomas Axen,CA,99999,2006,Qtr 2,April,25,1,USh7,1,0,,USh0,120,USh40,1
+Low,0,1218,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Check,1,438.68,243.6,87,438.68,789 29th Street,Denver,USA,Soo Jung Lee,CO,99999,2006,Qtr 2,April,5,1,USh200,1,0,,USh0,1218,USh14,1
+Low,0,127.5,1,2006,Qtr 1,February,10,,2,1,2006,1,1,1,2006,Qtr 1,February,10,Check,1,46.1,25.5,10,46.1,789 29th Street,Denver,USA,Soo Jung Lee,CO,99999,2006,Qtr 1,February,12,1,USh7,1,0,,USh0,127.5,USh12.75,1
+Low,0,127.5,1,2006,Qtr 2,April,3,,4,2,2006,1,1,1,2006,Qtr 2,April,3,Check,1,46.1,25.5,10,46.1,123 6th Street,Milwaukee,USA,Francisco Pérez-Olaeta,WI,99999,2006,Qtr 2,April,3,1,USh0,1,0,,USh0,127.5,USh12.75,1
+Low,0,1275,1,2006,Qtr 1,March,22,,3,1,2006,1,1,1,2006,Qtr 1,March,22,Check,1,459.2,255,100,459.2,123 8th Street,Portland,USA,Elizabeth Andersen,OR,99999,2006,Qtr 1,March,24,1,USh5,1,0,,USh0,1275,USh12.75,1
+Low,0,1392,1,2006,Qtr 2,April,30,,4,2,2006,1,1,1,2006,Qtr 2,April,30,Credit Card,1,501.32,278.4,40,501.32,123 8th Street,Portland,USA,Elizabeth Andersen,OR,99999,2006,Qtr 2,April,30,1,USh50,1,0,,USh0,1392,USh34.8,1
+Low,0,1400,1,2006,Qtr 1,January,15,,1,1,2006,1,1,1,2006,Qtr 1,January,15,Check,1,504.2,280,100,504.2,789 27th Street,Las Vegas,USA,Karen Toh,NV,99999,2006,Qtr 1,January,22,1,USh200,1,0,,USh0,1400,USh14,1
+Low,0,149.5,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,54.02,29.9,50,54.02,123 11th Street,Miami,USA,Peter Krschne,FL,99999,,,,,1,USh0,1,0,,USh0,149.5,USh2.99,1
+Low,0,1560,1,2006,Qtr 2,June,5,,6,2,2006,1,1,1,2006,Qtr 2,June,5,Check,1,561.8,312,40,561.8,789 29th Street,Denver,USA,Soo Jung Lee,CO,99999,2006,Qtr 2,June,5,1,USh200,1,0,,USh0,1560,USh39,1
+Low,0,1590,1,2006,Qtr 2,June,23,,6,2,2006,1,1,1,2006,Qtr 2,June,23,Check,1,572.6,318,30,572.6,123 6th Street,Milwaukee,USA,Francisco Pérez-Olaeta,WI,99999,2006,Qtr 2,June,23,1,USh0,1,0,,USh0,1590,USh53,1
+Low,0,1740,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Check,1,626.6,348,50,626.6,123 9th Street,Salt Lake City,USA,Sven Mortensen,UT,99999,2006,Qtr 2,April,5,1,USh100,1,0,,USh0,1740,USh34.8,1
+Low,0,184,1,2006,Qtr 1,February,6,,2,1,2006,1,1,1,2006,Qtr 1,February,6,Check,1,66.44,36.8,20,66.44,123 4th Street,New York,USA,Christina Lee,NY,99999,2006,Qtr 1,February,7,1,USh4,1,0,,USh0,184,USh9.2,1
+Low,0,1930,1,2006,Qtr 1,February,23,,2,1,2006,1,1,1,2006,Qtr 1,February,23,Cash,1,695,386,200,695,123 3rd Street,Los Angelas,USA,Thomas Axen,CA,99999,2006,Qtr 1,February,25,1,USh7,1,0,,USh0,1930,USh9.65,1
+Low,0,1950,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Check,1,702.2,390,100,702.2,123 9th Street,Salt Lake City,USA,Sven Mortensen,UT,99999,2006,Qtr 2,April,5,1,USh100,1,0,,USh0,1950,USh19.5,1
+Low,0,200,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Cash,1,72.2,40,20,72.2,789 25th Street,Chicago,USA,John Rodman,IL,99999,2006,Qtr 2,April,5,1,USh5,1,0,,USh0,200,USh10,1
+Low,0,200,1,2006,Qtr 2,May,24,,5,2,2006,1,1,1,2006,Qtr 2,May,24,Credit Card,1,72.2,40,20,72.2,123 10th Street,Chicago,USA,Roland Wacker,IL,99999,2006,Qtr 2,May,24,1,USh9,1,0,,USh0,200,USh10,1
+Low,0,220,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,79.4,44,10,79.4,123 10th Street,Chicago,USA,Roland Wacker,IL,99999,2006,Qtr 2,April,7,1,USh0,1,0,,USh0,220,USh22,1
+Low,0,2250,1,2006,Qtr 2,June,5,,6,2,2006,1,1,1,2006,Qtr 2,June,5,Credit Card,1,810.2,450,90,810.2,789 26th Street,Miami,USA,Run Liu,FL,99999,2006,Qtr 2,June,5,1,USh60,1,0,,USh0,2250,USh25,1
+Low,0,230,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Check,1,83,46,25,83,123 8th Street,Portland,USA,Elizabeth Andersen,OR,99999,2006,Qtr 2,April,5,1,USh50,1,0,,USh0,230,USh9.2,1
+Low,0,230,1,2006,Qtr 2,June,7,,6,2,2006,1,1,1,2006,Qtr 2,June,7,Credit Card,1,83,46,5,83,789 28th Street,Memphis,USA,Amritansh Raghav,TN,99999,2006,Qtr 2,June,7,1,USh40,1,0,,USh0,230,USh46,1
+Low,0,250,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,90.2,50,10,90.2,123 10th Street,Chicago,USA,Roland Wacker,IL,99999,2006,Qtr 2,April,7,1,USh0,1,0,,USh0,250,USh25,1
+Low,0,270,1,2006,Qtr 1,January,22,,1,1,2006,1,1,1,2006,Qtr 1,January,22,Credit Card,1,97.4,54,15,97.4,123 12th Street,Las Vegas,USA,John Edwards,NV,99999,2006,Qtr 1,January,22,1,USh5,1,0,,USh0,270,USh18,1
+Low,0,276,1,2006,Qtr 1,January,30,,1,1,2006,1,1,1,2006,Qtr 1,January,30,Credit Card,1,99.56,55.2,30,99.56,123 8th Street,Portland,USA,Elizabeth Andersen,OR,99999,2006,Qtr 1,January,31,1,USh50,1,0,,USh0,276,USh9.2,1
+Low,0,280,1,2006,Qtr 2,April,22,,4,2,2006,1,1,1,2006,Qtr 2,April,22,Credit Card,1,101,56,40,101,123 4th Street,New York,USA,Christina Lee,NY,99999,2006,Qtr 2,April,22,1,USh5,1,0,,USh0,280,USh7,1
+Low,0,289.5,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Credit Card,1,104.42,57.9,30,104.42,789 26th Street,Miami,USA,Run Liu,FL,99999,2006,Qtr 2,April,5,1,USh60,1,0,,USh0,289.5,USh9.65,1
+Low,0,300,1,2006,Qtr 1,January,20,,1,1,2006,1,1,1,2006,Qtr 1,January,20,Credit Card,1,108.2,60,10,108.2,123 4th Street,New York,USA,Christina Lee,NY,99999,2006,Qtr 1,January,22,1,USh5,1,0,,USh0,300,USh30,1
+Low,0,3240,1,2006,Qtr 2,April,22,,4,2,2006,1,1,1,2006,Qtr 2,April,22,Credit Card,1,1166.6,648,40,1166.6,123 4th Street,New York,USA,Christina Lee,NY,99999,2006,Qtr 2,April,22,1,USh5,1,0,,USh0,3240,USh81,1
+Low,0,35,1,2006,Qtr 1,January,20,,1,1,2006,1,1,1,2006,Qtr 1,January,20,Credit Card,1,12.8,7,10,12.8,123 4th Street,New York,USA,Christina Lee,NY,99999,2006,Qtr 1,January,22,1,USh5,1,0,,USh0,35,USh3.5,1
+Low,0,380,1,2006,Qtr 2,April,25,,4,2,2006,1,1,1,,,,,,1,137,76,10,137,123 4th Street,New York,USA,Christina Lee,NY,99999,,,,,,USh0,1,0,,USh0,380,USh38,1
+Low,0,4200,1,2006,Qtr 2,April,8,,4,2,2006,1,1,1,2006,Qtr 2,April,8,Credit Card,1,1512.2,840,300,1512.2,123 6th Street,Milwaukee,USA,Francisco Pérez-Olaeta,WI,99999,2006,Qtr 2,April,8,1,USh300,1,0,,USh0,4200,USh14,1
+Low,0,450,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,162.2,90,25,162.2,123 1st Street,Seattle,USA,Anna Bedecs,WA,99999,,,,,,USh0,1,0,,USh0,450,USh18,1
+Low,0,482.5,1,2006,Qtr 2,April,7,,4,2,2006,1,1,1,2006,Qtr 2,April,7,Credit Card,1,173.9,96.5,50,173.9,789 28th Street,Memphis,USA,Amritansh Raghav,TN,99999,2006,Qtr 2,April,7,1,USh40,1,0,,USh0,482.5,USh9.65,1
+Low,0,500,1,2006,Qtr 2,April,25,,4,2,2006,1,1,1,2006,Qtr 2,April,25,Cash,1,180.2,100,50,180.2,123 3rd Street,Los Angelas,USA,Thomas Axen,CA,99999,2006,Qtr 2,April,25,1,USh7,1,0,,USh0,500,USh10,1
+Low,0,510,1,2006,Qtr 2,June,5,,6,2,2006,1,1,1,2006,Qtr 2,June,5,Check,1,183.8,102,40,183.8,123 8th Street,Portland,USA,Elizabeth Andersen,OR,99999,2006,Qtr 2,June,5,1,USh50,1,0,,USh0,510,USh12.75,1
+Low,0,510,1,2006,Qtr 2,June,8,,6,2,2006,1,1,1,2006,Qtr 2,June,8,Credit Card,1,183.8,102,40,183.8,123 6th Street,Milwaukee,USA,Francisco Pérez-Olaeta,WI,99999,2006,Qtr 2,June,8,1,USh300,1,0,,USh0,510,USh12.75,1
+Low,0,52.5,1,2006,Qtr 2,May,24,,5,2,2006,1,1,1,,,,,,1,19.1,10.5,15,19.1,123 10th Street,Chicago,USA,Roland Wacker,IL,99999,,,,,1,USh0,1,0,,USh0,52.5,USh3.5,1
+Low,0,530,1,2006,Qtr 1,January,20,,1,1,2006,1,1,1,2006,Qtr 1,January,20,Credit Card,1,191,106,10,191,123 4th Street,New York,USA,Christina Lee,NY,99999,2006,Qtr 1,January,22,1,USh5,1,0,,USh0,530,USh53,1
+Low,0,533.75,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Credit Card,1,192.35,106.75,25,192.35,789 26th Street,Miami,USA,Run Liu,FL,99999,2006,Qtr 2,April,5,1,USh60,1,0,,USh0,533.75,USh21.35,1
+Low,0,552,1,2006,Qtr 2,April,5,,4,2,2006,1,1,1,2006,Qtr 2,April,5,Credit Card,1,198.92,110.4,30,198.92,789 26th Street,Miami,USA,Run Liu,FL,99999,2006,Qtr 2,April,5,1,USh60,1,0,,USh0,552,USh18.4,1
+Low,0,598,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,2006,Qtr 1,March,24,Credit Card,1,215.48,119.6,200,215.48,123 10th Street,Chicago,USA,Roland Wacker,IL,99999,2006,Qtr 1,March,24,1,USh9,1,0,,USh0,598,USh2.99,1
+Low,0,660,1,2006,Qtr 2,June,5,,6,2,2006,1,1,1,2006,Qtr 2,June,5,Cash,1,237.8,132,30,237.8,789 25th Street,Chicago,USA,John Rodman,IL,99999,2006,Qtr 2,June,5,1,USh5,1,0,,USh0,660,USh22,1
+Low,0,680,1,2006,Qtr 1,March,6,,3,1,2006,1,1,1,2006,Qtr 1,March,6,Credit Card,1,245,136,17,245,123 6th Street,Milwaukee,USA,Francisco Pérez-Olaeta,WI,99999,2006,Qtr 1,March,9,1,USh12,1,0,,USh0,680,USh40,1
+Low,0,70,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,25.4,14,20,25.4,123 11th Street,Miami,USA,Peter Krschne,FL,99999,,,,,1,USh0,1,0,,USh0,70,USh3.5,1
+Low,0,736,1,2006,Qtr 2,May,24,,5,2,2006,1,1,1,,,,,,1,265.16,147.2,40,265.16,123 1st Street,Seattle,USA,Anna Bedecs,WA,99999,,,,,1,USh0,1,0,,USh0,736,USh18.4,1
+Low,0,74.75,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,27.11,14.95,25,27.11,123 1st Street,Seattle,USA,Anna Bedecs,WA,99999,,,,,,USh0,1,0,,USh0,74.75,USh2.99,1
+Low,0,800,1,2006,Qtr 2,May,24,,5,2,2006,1,1,1,,,,,,1,288.2,160,20,288.2,123 11th Street,Miami,USA,Peter Krschne,FL,99999,,,,,1,USh0,1,0,,USh0,800,USh40,1
+Low,0,900,1,2006,Qtr 2,June,23,,6,2,2006,1,1,1,2006,Qtr 2,June,23,Check,1,324.2,180,30,324.2,123 6th Street,Milwaukee,USA,Francisco Pérez-Olaeta,WI,99999,2006,Qtr 2,June,23,1,USh0,1,0,,USh0,900,USh30,1
+Low,0,92,1,2006,Qtr 1,March,24,,3,1,2006,1,1,1,,,,,,1,33.32,18.4,10,33.32,123 10th Street,Chicago,USA,Roland Wacker,IL,99999,2006,Qtr 2,April,7,1,USh0,1,0,,USh0,92,USh9.2,1
+Low,0,920,1,2006,Qtr 1,January,22,,1,1,2006,1,1,1,2006,Qtr 1,January,22,Credit Card,1,331.4,184,20,331.4,123 12th Street,Las Vegas,USA,John Edwards,NV,99999,2006,Qtr 1,January,22,1,USh5,1,0,,USh0,920,USh46,1
+Low,0,920,1,2006,Qtr 2,April,7,,4,2,2006,1,1,1,2006,Qtr 2,April,7,Credit Card,1,331.4,184,50,331.4,789 28th Street,Memphis,USA,Amritansh Raghav,TN,99999,2006,Qtr 2,April,7,1,USh40,1,0,,USh0,920,USh18.4,1
+Low,0,96.5,1,2006,Qtr 2,June,5,,6,2,2006,1,1,1,2006,Qtr 2,June,5,Check,1,34.94,19.3,10,34.94,123 9th Street,Salt Lake City,USA,Sven Mortensen,UT,99999,2006,Qtr 2,June,5,1,USh100,1,0,,USh0,96.5,USh9.65,1

@@ -1,0 +1,46 @@
+﻿Category,Description,Discontinued,ID,List Price,Minimum Reorder Quantity,Product Code,Product Name,Quantity Per Unit,Reorder Level,Standard Cost,Target Level
+Baked Goods & Mixes,,false,19,USh9.2,5,NWTBGM-19,Northwind Traders Chocolate Biscuits Mix,10 boxes x 12 pieces,5,USh6.9,20
+Baked Goods & Mixes,,false,21,USh10,5,NWTBGM-21,Northwind Traders Scones,24 pkgs. x 4 pieces,5,USh7.5,20
+Baked Goods & Mixes,,false,85,USh12.49,5,NWTBGM-85,Northwind Traders Brownie Mix,3 boxes,10,USh9,20
+Baked Goods & Mixes,,false,86,USh15.99,5,NWTBGM-86,Northwind Traders Cake Mix,4 boxes,10,USh10.5,20
+Beverages,,false,1,USh18,10,NWTB-1,Northwind Traders Chai,10 boxes x 20 bags,10,USh13.5,40
+Beverages,,false,34,USh14,15,NWTB-34,Northwind Traders Beer,24 - 12 oz bottles,15,USh10.5,60
+Beverages,,false,43,USh46,25,NWTB-43,Northwind Traders Coffee,16 - 500 g tins,25,USh34.5,100
+Beverages,,false,81,USh2.99,25,NWTB-81,Northwind Traders Green Tea,20 bags per box,100,USh2,125
+Beverages,,false,87,USh4,,NWTB-87,Northwind Traders Tea,100 count per box,20,USh2,50
+Candy,,false,48,USh12.75,25,NWTCA-48,Northwind Traders Chocolate,10 pkgs,25,USh9.5625,100
+Canned Fruit & Vegetables,,false,17,USh39,10,NWTCFV-17,Northwind Traders Fruit Cocktail,15.25 OZ,10,USh29.25,40
+Canned Fruit & Vegetables,,false,88,USh1.3,,NWTCFV-88,Northwind Traders Pears,15.25 OZ,10,USh1,40
+Canned Fruit & Vegetables,,false,89,USh1.5,,NWTCFV-89,Northwind Traders Peaches,15.25 OZ,10,USh1,40
+Canned Fruit & Vegetables,,false,90,USh1.8,,NWTCFV-90,Northwind Traders Pineapple,15.25 OZ,10,USh1,40
+Canned Fruit & Vegetables,,false,91,USh2,,NWTCFV-91,Northwind Traders Cherry Pie Filling,15.25 OZ,10,USh1,40
+Canned Fruit & Vegetables,,false,92,USh1.2,,NWTCFV-92,Northwind Traders Green Beans,14.5 OZ,10,USh1,40
+Canned Fruit & Vegetables,,false,93,USh1.2,,NWTCFV-93,Northwind Traders Corn,14.5 OZ,10,USh1,40
+Canned Fruit & Vegetables,,false,94,USh1.5,,NWTCFV-94,Northwind Traders Peas,14.5 OZ,10,USh1,40
+Canned Meat,,false,40,USh18.4,30,NWTCM-40,Northwind Traders Crab Meat,24 - 4 oz tins,30,USh13.8,120
+Canned Meat,,false,95,USh2,,NWTCM-95,Northwind Traders Tuna Fish,5 oz,30,USh0.5,50
+Canned Meat,,false,96,USh4,,NWTCM-96,Northwind Traders Smoked Salmon,5 oz,30,USh2,50
+Cereal,,false,82,USh4,,NWTC-82,Northwind Traders Granola,,20,USh2,100
+Cereal,,false,97,USh5,,NWTC-82,Northwind Traders Hot Cereal,,50,USh3,200
+"Chips, Snacks",,false,83,USh1.8,,NWTCS-83,Northwind Traders Potato Chips,,30,USh0.5,200
+Condiments,,false,3,USh10,25,NWTCO-3,Northwind Traders Syrup,12 - 550 ml bottles,25,USh7.5,100
+Condiments,,false,4,USh22,10,NWTCO-4,Northwind Traders Cajun Seasoning,48 - 6 oz jars,10,USh16.5,40
+Condiments,,false,77,USh13,15,NWTCO-77,Northwind Traders Mustard,12 boxes,15,USh9.75,60
+Dairy Products,,false,72,USh34.8,10,NWTD-72,Northwind Traders Mozzarella,24 - 200 g pkgs.,10,USh26.1,40
+Dried Fruit & Nuts,,false,7,USh30,10,NWTDFN-7,Northwind Traders Dried Pears,12 - 1 lb pkgs.,10,USh22.5,40
+Dried Fruit & Nuts,,false,14,USh23.25,10,NWTDFN-14,Northwind Traders Walnuts,40 - 100 g pkgs.,10,USh17.4375,40
+Dried Fruit & Nuts,,false,51,USh53,10,NWTDFN-51,Northwind Traders Dried Apples,50 - 300 g pkgs.,10,USh39.75,40
+Dried Fruit & Nuts,,false,74,USh10,5,NWTDFN-74,Northwind Traders Almonds,5 kg pkg.,5,USh7.5,20
+Dried Fruit & Nuts,,false,80,USh3.5,25,NWTDFN-80,Northwind Traders Dried Plums,1 lb bag,50,USh3,75
+Grains,,false,52,USh7,25,NWTG-52,Northwind Traders Long Grain Rice,16 - 2 kg boxes,25,USh5.25,100
+"Jams, Preserves",,false,6,USh25,25,NWTJP-6,Northwind Traders Boysenberry Spread,12 - 8 oz jars,25,USh18.75,100
+"Jams, Preserves",,false,20,USh81,10,NWTJP-6,Northwind Traders Marmalade,30 gift boxes,10,USh60.75,40
+Oil,,false,5,USh21.35,10,NWTO-5,Northwind Traders Olive Oil,36 boxes,10,USh16.0125,40
+Pasta,,false,56,USh38,30,NWTP-56,Northwind Traders Gnocchi,24 - 250 g pkgs.,30,USh28.5,120
+Pasta,,false,57,USh19.5,20,NWTP-57,Northwind Traders Ravioli,24 - 250 g pkgs.,20,USh14.625,80
+Sauces,,false,8,USh40,10,NWTS-8,Northwind Traders Curry Sauce,12 - 12 oz jars,10,USh30,40
+Sauces,,false,65,USh21.05,10,NWTS-65,Northwind Traders Hot Pepper Sauce,32 - 8 oz bottles,10,USh15.7875,40
+Sauces,,false,66,USh17,20,NWTS-66,Northwind Traders Tomato Sauce,24 - 8 oz jars,20,USh12.75,80
+Soups,,false,41,USh9.65,10,NWTSO-41,Northwind Traders Clam Chowder,12 - 12 oz cans,10,USh7.2375,40
+Soups,,false,98,USh1.89,,NWTSO-98,Northwind Traders Vegetable Soup,,100,USh1,200
+Soups,,false,99,USh1.95,,NWTSO-99,Northwind Traders Chicken Soup,,100,USh1,200

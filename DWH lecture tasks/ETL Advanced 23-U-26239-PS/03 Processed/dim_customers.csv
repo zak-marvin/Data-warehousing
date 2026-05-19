@@ -1,0 +1,30 @@
+﻿City,Company,Country/Region,Customer ID
+Boise,Company G,USA,7
+Boston,Company B,USA,2
+Boston,Company R,USA,18
+Chicago,Company J,USA,10
+Chicago,Company Y,USA,25
+Denver,Company CC,USA,29
+Denver,Company N,USA,14
+Honolulu,Company O,USA,15
+Las Vegas,Company AA,USA,27
+Las Vegas,Company L,USA,12
+Los Angelas,Company C,USA,3
+Los Angelas,Company S,USA,19
+Memphis,Company BB,USA,28
+Memphis,Company M,USA,13
+Miami,Company K,USA,11
+Miami,Company Z,USA,26
+Milwaukee,Company F,USA,6
+Milwaukee,Company V,USA,22
+Minneapolis,Company E,USA,5
+Minneapolis,Company U,USA,21
+New York,Company D,USA,4
+New York,Company T,USA,20
+Portland,Company H,USA,8
+Portland,Company W,USA,23
+Salt Lake City,Company I,USA,9
+Salt Lake City,Company X,USA,24
+San Francisco,Company P,USA,16
+Seattle,Company A,USA,1
+Seattle,Company Q,USA,17
